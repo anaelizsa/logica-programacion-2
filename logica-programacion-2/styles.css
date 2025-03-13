@@ -1,0 +1,17 @@
+html {
+    margin: auto;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    border: 3px solid violet;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color:darkslateblue;
+}
